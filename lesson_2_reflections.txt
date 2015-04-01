@@ -1,0 +1,3 @@
+git init - initialize repository
+
+git status: check what changed in it
