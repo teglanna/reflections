@@ -6,3 +6,7 @@ Describe the differences between forks, clones, and branches. When would you use
 Fork clones the files and history in the local place, on github, clone extends it between github and the local cp.
 
 
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+When I want to compare the two branches, maybe I don't want to change the main branch later or I have to different solvation for something?
+
