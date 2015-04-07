@@ -10,3 +10,4 @@ When would you want to make changes in a separate branch rather than directly in
 What benefits does each approach have?
 When I want to compare the two branches, maybe I don't want to change the main branch later or I have to different solvation for something?
 
+Valami valtozas.
